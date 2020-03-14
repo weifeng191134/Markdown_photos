@@ -1,6 +1,7 @@
 
 
 net from http://www.stata-press.com/data/itsus/ 
+* 胡乱改，写几个字 
 
 *mkdir itsus_do
 
