@@ -1,8 +1,10 @@
 
 
 net from http://www.stata-press.com/data/itsus/ 
+* 胡乱改，写几个字 
 
 *mkdir itsus_do
+* 不是不是不是
 
 net get itsus_files 
 
